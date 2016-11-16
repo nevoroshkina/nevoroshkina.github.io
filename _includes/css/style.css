@@ -534,3 +534,12 @@ a.anchor{
 	margin: 15px auto;
 	background: #404040;
 }
+/*.thx-page{
+	padding-bottom: 40vh;
+}*/
+.thx-page span{
+	color: {{  site.colors.primary }};
+	display: block;
+	margin: 18vh auto;
+    font-size: 50px;
+}
