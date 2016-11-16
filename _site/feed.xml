@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nevoroshkina</title>
+    <description>This is portfolio site for Nevoroshkina Tanya</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 16 Nov 2016 17:56:34 +0200</pubDate>
+    <lastBuildDate>Wed, 16 Nov 2016 17:56:34 +0200</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>Question: Why did the Chicken cross the road?</title>
+        <description>&lt;p&gt;To get to the other side.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2014 19:54:46 +0300</pubDate>
+        <link>http://localhost:4000/question/your-project-name</link>
+        <guid isPermaLink="true">http://localhost:4000/question/your-project-name</guid>
+        
+        
+        <category>question</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Project 1</title>
+        <description>&lt;p&gt;####YOUR PROJECT NAME
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+
+&lt;p&gt;####Our Proposal
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2014 19:54:46 +0300</pubDate>
+        <link>http://localhost:4000/project-1</link>
+        <guid isPermaLink="true">http://localhost:4000/project-1</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Project 2</title>
+        <description>&lt;p&gt;####YOUR PROJECT NAME
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+
+&lt;p&gt;####Our Proposal
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2014 19:54:46 +0300</pubDate>
+        <link>http://localhost:4000/project-2</link>
+        <guid isPermaLink="true">http://localhost:4000/project-2</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Project 1</title>
+        <description>&lt;p&gt;####YOUR PROJECT NAME
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+
+&lt;p&gt;####Our Proposal
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2014 19:54:46 +0300</pubDate>
+        <link>http://localhost:4000/project-1</link>
+        <guid isPermaLink="true">http://localhost:4000/project-1</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Project 2</title>
+        <description>&lt;p&gt;####YOUR PROJECT NAME
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+
+&lt;p&gt;####Our Proposal
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2014 19:54:46 +0300</pubDate>
+        <link>http://localhost:4000/project-2</link>
+        <guid isPermaLink="true">http://localhost:4000/project-2</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Project 2</title>
+        <description>&lt;p&gt;####YOUR PROJECT NAME
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+
+&lt;p&gt;####Our Proposal
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2014 19:54:46 +0300</pubDate>
+        <link>http://localhost:4000/project-2</link>
+        <guid isPermaLink="true">http://localhost:4000/project-2</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Project 1</title>
+        <description>&lt;p&gt;####YOUR PROJECT NAME
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+
+&lt;p&gt;####Our Proposal
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2014 19:54:46 +0300</pubDate>
+        <link>http://localhost:4000/project-1</link>
+        <guid isPermaLink="true">http://localhost:4000/project-1</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Project 2</title>
+        <description>&lt;p&gt;####YOUR PROJECT NAME
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+
+&lt;p&gt;####Our Proposal
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2014 19:54:46 +0300</pubDate>
+        <link>http://localhost:4000/project-2</link>
+        <guid isPermaLink="true">http://localhost:4000/project-2</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Project 1</title>
+        <description>&lt;p&gt;####YOUR PROJECT NAME
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+
+&lt;p&gt;####Our Proposal
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2014 19:54:46 +0300</pubDate>
+        <link>http://localhost:4000/project-1</link>
+        <guid isPermaLink="true">http://localhost:4000/project-1</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Project 2</title>
+        <description>&lt;p&gt;####YOUR PROJECT NAME
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
+
+&lt;p&gt;####Our Proposal
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2014 19:54:46 +0300</pubDate>
+        <link>http://localhost:4000/project-2</link>
+        <guid isPermaLink="true">http://localhost:4000/project-2</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+  </channel>
+</rss>
